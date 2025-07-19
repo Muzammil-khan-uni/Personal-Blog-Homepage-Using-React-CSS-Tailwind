@@ -13,6 +13,7 @@ JavaScript (ES6+) – for interaction logic, filtering, pagination, etc.
 React Icons – for consistent and modern iconography.
 
 <h2>🔧 What I Built: </h2>
+
 ✅ A clean, modern homepage layout with a visually appealing blog card interface
 
 ✅ A dynamic category filter that switches between blog post types like Tech, Travel, and Food
