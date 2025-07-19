@@ -1,6 +1,6 @@
 # Personal Blog Homepage
 
-[![IMAGE ALT TEXT HERE]()](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7352364344040398849?compact=1)
+[![IMAGE ALT TEXT HERE](https://github.com/Muzammil-khan-uni/Personal-Blog-Homepage-Using-React-CSS-Tailwind/blob/main/Screenshot%202025-07-19%20221133.png)](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7352364344040398849?compact=1)
 
 Design and develop a personal blog homepage that presents blog posts in a visually appealing card layout. The blog allows users to browse, filter, and search posts by category and keyword. It emphasizes UI layout, component-based structure, props & state management, and responsive design using React and Tailwind CSS.
 
