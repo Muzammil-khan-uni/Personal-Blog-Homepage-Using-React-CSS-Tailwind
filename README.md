@@ -14,10 +14,15 @@ React Icons – for consistent and modern iconography.
 
 <h2>🔧 What I Built: </h2>
 ✅ A clean, modern homepage layout with a visually appealing blog card interface
+
 ✅ A dynamic category filter that switches between blog post types like Tech, Travel, and Food
+
 ✅ A search functionality to filter posts based on title keywords
+
 ✅ Implemented pagination to limit visible posts per page for better UX
+
 ✅ Designed a vibrant header and footer section to enrich the UI and improve navigation
+
 ✅ Used React Props, State, Conditional Rendering, and a responsive grid layout to build the core functionality
 
 <h2>Features Implemented</h2>
